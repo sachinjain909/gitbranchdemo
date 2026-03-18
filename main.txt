@@ -1,1 +1,2 @@
 This is required for mobile and web development
+added the mobile features
